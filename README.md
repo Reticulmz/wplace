@@ -6,6 +6,5 @@ For those who would like to collaborate, please install [Blue Marble](https://bl
 
 <img width="297" height="492" alt="image" src="https://github.com/user-attachments/assets/18c6427d-acc6-4fb8-83eb-b77f8a64b54d" />
 
-![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FReticulmz%2Fwplace%2Fblob%2Fmain%2FREADME.md&s=40&c=009dff&bg=00000000&no=2&ff=linebeam&tb=&ta=+visitors%21)
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FReticulmz%2Fwplace%2Fblob%2Fmain%2FREADME.md&label=Visit&icon=people&color=%233d8bfd&message=&style=flat&tz=Asia%2FTokyo)
