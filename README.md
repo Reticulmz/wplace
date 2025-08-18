@@ -5,3 +5,5 @@ For those who would like to collaborate, please install [Blue Marble](https://bl
 <img width="323" height="310" alt="converted___natori_sana_sana_channel_drawn_by_kanikama__38a3c57fb090feefa491e653a88c9093_1" src="https://github.com/user-attachments/assets/6b6c85fe-ffd1-400a-9e6c-c5692885800f" />
 
 <img width="297" height="492" alt="image" src="https://github.com/user-attachments/assets/18c6427d-acc6-4fb8-83eb-b77f8a64b54d" />
+
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FReticulmz%2Fwplace%2Fblob%2Fmain%2FREADME.md&s=40&c=009dff&bg=00000000&no=2&ff=linebeam&tb=&ta=+visitors%21)
