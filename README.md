@@ -1,4 +1,4 @@
-手伝ってくださる場合[Blue Marble](https://bluemarble.camilledaguin.fr)を導入してこの画像をインポートし以下の座標にテンプレートを表示し塗ってくださると助かります！！！
+手伝ってくださる場合[Blue Marble](https://bluemarble.camilledaguin.fr)を導入してこの画像をインポートし以下の[座標](https://wplace.live/?lat=38.1046167643574&lng=141.1417086530273&zoom=16.374232878672384)にテンプレートを表示し塗ってくださると助かります！！！
 
 If you would like to help with the painting, please import this image into [Blue Marble](https://bluemarble.camilledaguin.fr)!
 
