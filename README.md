@@ -1,7 +1,7 @@
 # wplace.liveにすまんこを出現させよう！！！！
 
 なんとなく描き始めた[かにかま先生](https://x.com/kanikama3gou)の名取を手伝ってくださる方がいたので手伝ってくださる方用の画像とテンプレートの表示方法を置いておきます
-[作者のツイッター](https://x.com/kanikama3gou)
+[イラスト作者のツイッター](https://x.com/kanikama3gou)
 
 ## 参加方法/How to join
 
