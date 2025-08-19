@@ -18,9 +18,9 @@ For those who would like to collaborate, please install [Blue Marble](https://bl
 
 Upload Templateをクリックし表示したい画像を選択
 
-表示したい座標(画像の右上が基準)をwplace上でクリックし
+表示したい座標(画像の左上が基準)をwplace上でクリックし
 
-Blue Marbleの座標入力欄右のボタンをクリックし(座標の自動入力)
+Blue Marbleの座標入力欄、左のボタンをクリックし(座標の自動入力)
 
 Createボタンを押すことでテンプレートがマップ上に表示されます
 
