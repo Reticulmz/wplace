@@ -31,6 +31,8 @@ Createボタンを押すことでテンプレートがマップ上に表示さ�
 - LargeBoots #7814582
 - toroPO #6548915
 - yude #1752864
+- SharpStick #9941614
+- QuietPencil #9941980
 
 (書き忘れてたらIssueでも上げてください)
 
