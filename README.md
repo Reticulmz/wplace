@@ -33,6 +33,7 @@ Createボタンを押すことでテンプレートがマップ上に表示さ�
 - yude #1752864
 - SharpStick #9941614
 - QuietPencil #9941980
+- StarkBroom #3299925
 
 (書き忘れてたらIssueでも上げてください)
 
