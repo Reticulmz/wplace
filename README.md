@@ -34,6 +34,8 @@ Createボタンを押すことでテンプレートがマップ上に表示さ�
 - SharpStick #9941614
 - QuietPencil #9941980
 - StarkBroom #3299925
+- LuckyBangle #10271903
+- mu #10143957
 
 (書き忘れてたらIssueでも上げてください)
 
