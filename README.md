@@ -2,7 +2,8 @@
 
 
 なんとなく描き始めた[かにかま先生](https://x.com/kanikama3gou)の名取を手伝ってくださる方がいたので手伝ってくださる方用の画像とテンプレートの表示方法を置いておきます
-[作者のツイッター](https://x.com/kanikama3gou)
+
+[イラスト作者のツイッター](https://x.com/kanikama3gou)
 
 ### 完成しました！
 
@@ -24,9 +25,9 @@ For those who would like to collaborate, please install [Blue Marble](https://bl
 
 Upload Templateをクリックし表示したい画像を選択
 
-表示したい座標(画像の右上が基準)をwplace上でクリックし
+表示したい座標(画像の左上が基準)をwplace上でクリックし
 
-Blue Marbleの座標入力欄右のボタンをクリックし(座標の自動入力)
+Blue Marbleの座標入力欄、左のボタンをクリックし(座標の自動入力)
 
 Createボタンを押すことでテンプレートがマップ上に表示されます
 
@@ -37,6 +38,14 @@ Createボタンを押すことでテンプレートがマップ上に表示さ�
 - LargeBoots #7814582
 - toroPO #6548915
 - yude #1752864
+- SharpStick #9941614
+- QuietPencil #9941980
+- StarkBroom #3299925
+- LuckyBangle #10271903
+- mu #10143957
+- aia #9390602
+- Lomix #6642185
+- AlertSheet #2779762
 
 (書き忘れてたらIssueでも上げてください)
 
